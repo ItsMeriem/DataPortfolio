@@ -28,17 +28,14 @@ Hi!  I'm Meriem (she/her) and here's what you need to know about me:
 
 # Portfolio
 
-## Assignment: [Visualizing government Debt](visualizing-government-debt)
+## Assignment: Visualizing Government Debt
 More info to come!
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 3&4: Critique by Design
 More to come
 
 ## Final project
 More info to come
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
 
 ---
 ## Important Links 
