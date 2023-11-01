@@ -1,3 +1,7 @@
+| [home page](https://itsmeriem.github.io/Meriem/) | [visualizing debt](visualizing-debt) | [critique by design](critique-by-design) | [final project](final-project)
+
+# Title
+More info to come
 
 **Welcome to my portfolio where I tell stories with data at CMU!** Here's where all my cool work will go. 
 
