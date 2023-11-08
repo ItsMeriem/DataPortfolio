@@ -1,4 +1,4 @@
-| [home page](https://itsmeriem.github.io/Meriem/) | [visualizing debt](visualizing-debt.md) | [critique by design](critique-by-design.md) | [final project](final-project.md)
+| [home page](https://itsmeriem.github.io/Meriem/) | [Ranking of News Orgs](news-ranking.md) | [visualizing debt](visualizing-debt.md) | [critique by design](critique-by-design.md) | [final project](final-project.md)
 
 # Visualizing Debt
 
@@ -34,6 +34,11 @@
 </script>
 
 
-Finally, use Markdown to write a paragraph or two about the different methods of visualization, and how they compare / contrast to one another. Make sure you include all source information and explain the data well.  Talk about why you chose the third data visualization. 
+The bar graph (imported from the OECD website) is successful at showing the ranking of debt-to-GDP ratio among OECD countries. At first glance, it's clear that Japan ranks the highest. However, the chart does not use colors in a smart way - its use of light blue and grey fade together. It is so simple that it becomes boring. As a busy viewer, I'd scroll past this chart. It does not grab my attention. 
+The heat map made in Part 2 of this assignment focuses on the progression over time of government debt. This adds an additional dimension, as compared to the bar graph. Because of the ranking from highest to lowest and the use of color in a blue-to-orange gradient, two takeways easily pop up: Japan ranks the highest, and on average borrowing has gotten worse over time for the top borrowers. While the message is clear, it takes a couple of minutes to get there. By providing all the data points, the heatmap becomes overwhelming. Viewers need to scroll both vertically and horizontally to get the entire picture, which might risk losing their attention.
+Finally, I decided to use a packed bubble chart as the third visualization. Unlike the heatmap, I wanted to highlight the current state of government debt. To do so, I limited the data to 2022 only. While not losing the simpliciy of the bar chart, I also wanted to fix one of its issues: I wanted to make a visualization that was eye-grabbing. The packed bubble chart provided me with this opportunity. I sorted the bubbles in descending order so that the highest ratios are concentrated in the middle of the cloud, and the lowest ones in the outer parts of the chart. Drawing from the heatmap, I used a similar color gradient since I believe that the blue-to-orange gradient is quite effective. To decrease eye-travel, I included the value of the debt-to-gdp ratio in the bubbles themselves. This is better than the bar chart where the viewer has to travel back and forth between the bar and the y-axis. I believe that the third visualization achieves the goal of being simple, clear and attention-grabbing.
 
-Given that the heatmap shown above shows the progression over time of the Government debt-to-GDP ratio, I wanted to highlight the current state of governmental debt. To focus on the issue currently, I only used data for 2022. I did not use data for previous years. 
+(Data Source)[https://data.oecd.org/gga/general-government-debt.htm] 
+
+
+
