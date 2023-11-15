@@ -12,76 +12,74 @@ To test my sketches, I interviewed two people. I used the same set of questions 
 
 #### Vizualization 1: 3-Panels "Unit" Chart
 
-- Can you tell me what you think this is?
+Meriem: Can you tell me what you think this is?
 
-I think each panel is zooming-in at each level of who makes at or below minimum wage. You zoom in on the first dot and it divides it by people at vs people below minimum wage; and then dividing further by gender vs age. 
+User 1: I think each panel is zooming-in at each level of who makes at or below minimum wage. You zoom in on the first dot and it divides it by people at vs people below minimum wage; and then dividing further by gender vs age. 
 
-- Can you describe to me the story this is telling you?
+Meriem: Can you describe to me the story this is telling you?
 
-A lot of people are making under minimum wage and most of them are women. And a good number of those are young.
+User 1: A lot of people are making under minimum wage and most of them are women. And a good number of those are young.
 
-- Is there anything you find surprising or confusing?
+Meriem: Is there anything you find surprising or confusing?
 
-I find it suprising that so many people make under minimum wage.
+User 1: I find it suprising that so many people make under minimum wage.
 What I find confusing is that the third panel has 2 variables. Having two variables (both age and gender) makes it confusing. The legend if also confusing: using both color and shade to represent age and gender is confusing.
 Additionally, the title in third panel has nothing to do with age. In the third panel, it seems like half of them are younger and half of them are older. So what’s the point? What are you trying to say here? 
 
-- Who do you think is the intended audience for this?
+Meriem: Who do you think is the intended audience for this?
 
-People who are interested in graphs about who makes less than minim wage. I don’t think the audience is people making less than minimum wage. Audience is to educate broadly
+User 1: People who are interested in graphs about who makes less than minim wage. I don’t think the audience is people making less than minimum wage. Audience is to educate broadly
 
-- Is there anything you would change or do differently?
+Meriem: Is there anything you would change or do differently?
 
-If you want to make a point about age, you need to make it separately: on a separte panel.
+User 1: If you want to make a point about age, you need to make it separately: on a separte panel.
 For the first panel, you need to make me care. What does 1 out of a 100 mean? Can you compare it to something else? Like “that’s the number of people in Pittsburgh” 
 
-- What do you think of the text (titles, legend etc..)? 
+Meriem: What do you think of the text (titles, legend etc..)? 
 
-Good. But you need to stick to the story. There's nothing about age in the third title
+User 1: Good. But you need to stick to the story. There's nothing about age in the third title
 
 
 
 #### Vizualization 2: Bar Charts
 
-- Can you tell me what you think this is?
+Meriem: Can you tell me what you think this is?
 
-This is showing the number of women making less then or at minimum wage vs men, and it's showing age as well.
+User 1: This is showing the number of women making less then or at minimum wage vs men, and it's showing age as well.
 
-- Can you describe to me the story this is telling you?
+Meriem: Can you describe to me the story this is telling you?
 
-Women make less money than men.
-I'm not sure about age. There’s more older than young women who are making less than 7.25.
+User 1: Women make less money than men. I'm not sure about age. There’s more older than young women who are making less than 7.25.
 
-- Is there anything you find surprising or confusing?
+Meriem: Is there anything you find surprising or confusing?
 
-Confusing: Axes are not labelled. Age is not mentioned in the title. Mentioning age in the title will help the readers draw the conclusion. 
+User 1: Confusing: Axes are not labelled. Age is not mentioned in the title. Mentioning age in the title will help the readers draw the conclusion. 
 
-- Is there anything you would change or do differently?
+Meriem: Is there anything you would change or do differently?
 
-I would change the title to say: “Of hourly workers making $7.25 or less, Women make up m….”
+User 1: I would change the title to say: “Of hourly workers making $7.25 or less, Women make up m….”
 
 
 
 #### Vizualization 3: Line graph
 
-- Can you tell me what you think this is?
+Meriem: Can you tell me what you think this is?
 
-This is showing how the number of hourly workers making at or less than 7.25 has decreased over time.
+User 1: This is showing how the number of hourly workers making at or less than 7.25 has decreased over time.
 
-- Can you describe to me what this is telling you?
+Meriem: Can you describe to me what this is telling you?
 
-Number of hourly workers has decreased over time
+User 1: Number of hourly workers has decreased over time
 
-- Is there anything you find surprising or confusing?
+Meriem: Is there anything you find surprising or confusing?
 
-Very clear. Glad to see it has decreased
+User 1: Very clear. Glad to see it has decreased
 
-- Who do you think is the intended audience for this?
+Meriem: Who do you think is the intended audience for this?
 
-Anyone. Much easier to understand.
+User 1: Anyone. Much easier to understand.
 
-- Is there anything you would change or do differently?
-If you wanted to make it more interesting, you can add lines for gender and age. A line for women , a line for men etc… To show that trends are different for different subgroups
+Meriem: Is there anything you would change or do differently? If you wanted to make it more interesting, you can add lines for gender and age. A line for women , a line for men etc… To show that trends are different for different subgroups
 
 
 
