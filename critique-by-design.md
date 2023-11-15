@@ -13,8 +13,18 @@ Pulling from my critique above, I set out to resolve a few issues in the origina
 - Visualize percentages in a way that may be easier to understand. I find this specifically helpful when talking about percentages of percentages: like 67% of 1% is hard to grasp so I was hoping to find ways to make that easier to work with.
 
 ### Vizualization 1: 3-Panels "Unit" Chart
-### Vizualization 2: Bar Charts
+
+My first sketch aims to visualize percentages as dots and focuses on "who" makes below minimum wage. I envision these as three interactive panels. In panel 1, users could click on the one dot representing people making at or below $7.25, and that would trigger an effect where we zoom-in on the dot and then the one dot gets "divided" into 100 dots, leading us to the next panel. Find sketches below: 
+
+[include image]
+
+### Vizualization 2: Bar Chart
+
+[include image]
+
 ### Vizualization 3: Line graph
+
+[include image]
 
 # Step 4a: Test the Solution
 
