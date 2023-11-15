@@ -84,9 +84,6 @@ Anyone. Much easier to understand.
 If you wanted to make it more interesting, you can add lines for gender and age. A line for women , a line for men etc… To show that trends are different for different subgroups
 
 
-![image](https://github.com/ItsMeriem/Meriem/assets/149505081/cb8413c2-059e-416e-b2ce-0fb0a19178fb)
-
-
 
 # Step 5: Built My Solution
 
