@@ -108,10 +108,27 @@ Upon reflecting on these comments, I decided to go forward with Visualization nu
 -  Visualizes percentages in a way that may be easier to understand. I find this specifically helpful when talking about percentages of percentages: Like 67% of 1% is hard to grasp so I was hoping that the unit chart would help me visualize this.
 
 And using the comments above, I made the following changes to my sketches:
-- In Panel 3, I changed the legend to rely on color only. Instead of using shading to represent age, I used a difference in opacity of the same hue. I used 
+- In all three panels, I added a legend that specifies the "size" of the dot (i.e 1 dot = 1 million people). As per the users' feedback, this would helo visualize the extend of the population concerned.
+- In Panel 1, I changed the title from "For every 100 hourly workers, 1 person makes $7.25 or less" to "For every 100 people getting paid hourly, 1 person makes $7.25 or less". The phrasing "hourly wokers" (used by the Bureau of Labor Statistics) was confusing to users.
+- In Panel 3, I changed the legend to rely on color only. Instead of using shading to represent age, I used a difference in opacity of the same hue. I used light blue for older women, dark blue for younger women, light green for older men, and dark green for younger men.
+- In Panel 3, I added a sub-title: "Contrary to popular belief that the lowest earners are teenagers, most are aged 25 or older". I used this to frame the reasons behind my addition of the age variable and to help users understand why considering age matters when we discuss minimum wage.
 
 
 # Step 5: Built My Solution
+
+In building the solution, the biggest challenge was learning how to make interactive designs in Tableau. My vision, as described above, is that each dot takes the users to a new panel (in a sense, each dot gets divided into a new panel of 100 dots). My vision included a "zooming-in" effect. This was very hard, almost impossible to do in Tableau. This is one of the limitations of Tableau. For future designs, I would consider using Figma or a similar design software to implement an interactive design - I think that would be easier (and nicer looking!)
+
+The best workaround I found is to use the "navigation" buttons in Tableau to navigate between panels.
+- To navigate from Panel 1 to Panel 2: click on the orange dot
+- To navigate from Panel 2 to Panel 3: click on any red dot
+- To navigate back to a previous panel: click the "back" button.
+
+This is the best solution I found given the time and software constraints.
+
+The navigation instructions should be pretty straightforward on the visualization itself. Please make sure you see all three panels.
+
+
+
 
 <div class='tableauPlaceholder' id='viz1700024332299' style='position: relative'><noscript><a href='#'><img alt='Panel 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mi&#47;MinWagePanelDesign&#47;Panel1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MinWagePanelDesign&#47;Panel1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mi&#47;MinWagePanelDesign&#47;Panel1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>               
 <script type='text/javascript'>                   
