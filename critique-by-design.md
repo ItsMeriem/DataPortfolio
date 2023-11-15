@@ -8,9 +8,9 @@ More info to come
 
 To test my sketches, I interviewed two people. I used the same set of questions for both interviewees and the same questions for all three visualizations. To protect anonymity, I paraphrased their answers.
 
-#### User 1: Young Progressional, mid 20s, college educated
+### User 1: Young Progressional, mid 20s, college educated
 
-###### Vizualization 1: 3-Panels "Unit" Chart
+#### Vizualization 1: 3-Panels "Unit" Chart
 
 - Can you tell me what you think this is?
 
@@ -41,7 +41,7 @@ Good. But you need to stick to the story. There's nothing about age in the third
 
 
 
-###### Vizualization 2: Bar Charts
+#### Vizualization 2: Bar Charts
 
 - Can you tell me what you think this is?
 
@@ -62,7 +62,7 @@ I would change the title to say: “Of hourly workers making $7.25 or less, Wome
 
 
 
-###### Vizualization 3: Line graph
+#### Vizualization 3: Line graph
 
 - Can you tell me what you think this is?
 
