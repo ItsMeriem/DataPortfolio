@@ -4,9 +4,16 @@
 # Title
 More info to come
 
+# Step 1 and 2:
+
+For this assignment, I chose to focus on this [visualization published by Business Insider]((https://www.businessinsider.com/federal-minimum-wage-workers-map-2018-10?r=US&IR=T)) showing "Workers Making Minimum Wage or Less". The associated MakeoverMonday Data can be found [here](https://data.world/makeovermonday/2023w18). For convenience, I am also attaching a screenshot of the visualization.
+
+
+
 # Step 3: Sketch out a Solution
 
-Pulling from my critique above, I set out to resolve a few issues in the original visualization. My goal was to: 
+Pulling from my critique above, I set out to resolve a ![image](https://github.com/ItsMeriem/Meriem/assets/149505081/8620323d-43c5-4fc7-9526-ce7fd9b2d365)
+few issues in the original visualization. My goal was to: 
 
 - Move away from state-to-state comparisons and focus on the story at a national-level.
 - Focus both on "how many" people make at or below minimum wage but also "who" makes at or below min wage.
