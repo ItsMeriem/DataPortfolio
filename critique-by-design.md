@@ -8,7 +8,7 @@ More info to come
 
 For this assignment, I chose to focus on this [visualization published by Business Insider]((https://www.businessinsider.com/federal-minimum-wage-workers-map-2018-10?r=US&IR=T)) showing "Workers Making Minimum Wage or Less". The associated MakeoverMonday Data can be found [here](https://data.world/makeovermonday/2023w18). For convenience, I am also attaching a screenshot of the visualization.
 
-<img src="min_wage_viz.png" width="200"/>
+<img src="min_wage_viz.png" width="400"/>
 
 
 
