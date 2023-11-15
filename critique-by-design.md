@@ -6,9 +6,9 @@ More info to come
 
 # Step 1 and 2:
 
-For this assignment, I chose to focus on this [visualization published by Business Insider]((https://www.businessinsider.com/federal-minimum-wage-workers-map-2018-10?r=US&IR=T)) showing "Workers Making Minimum Wage or Less". The associated MakeoverMonday Data can be found [here](https://data.world/makeovermonday/2023w18). For convenience, I am also attaching a screenshot of the visualization.
+For this assignment, I chose to focus on this [visualization published by Business Insider](https://www.businessinsider.com/federal-minimum-wage-workers-map-2018-10?r=US&IR=T) showing "Workers Making Minimum Wage or Less". The associated MakeoverMonday Data can be found [here](https://data.world/makeovermonday/2023w18). For convenience, I am also attaching a screenshot of the visualization.
 
-<img src="min_wage_viz.png" width="400"/>
+<img src="min_wage_viz.png"/>
 
 
 
