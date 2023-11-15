@@ -4,6 +4,18 @@
 # Title
 More info to come
 
+# Step 3: Sketch out a Solution
+
+Pulling from my critique above, I set out to resolve a few issues in the original visualization. My goal was to: 
+
+- Move away from state-to-state comparisons and focus on the story at a national-level.
+- Focus both on "how many" people make at or below minimum wage but also "who" makes at or below min wage.
+- Visualize percentages in a way that may be easier to understand. I find this specifically helpful when talking about percentages of percentages: like 67% of 1% is hard to grasp so I was hoping to find ways to make that easier to work with.
+
+### Vizualization 1: 3-Panels "Unit" Chart
+### Vizualization 2: Bar Charts
+### Vizualization 3: Line graph
+
 # Step 4a: Test the Solution
 
 To test my sketches, I interviewed two people. I used the same set of questions for both interviewees and the same questions for all three visualizations. To protect anonymity, I paraphrased their answers.
@@ -108,7 +120,7 @@ Upon reflecting on these comments, I decided to go forward with Visualization nu
 -  Visualizes percentages in a way that may be easier to understand. I find this specifically helpful when talking about percentages of percentages: Like 67% of 1% is hard to grasp so I was hoping that the unit chart would help me visualize this.
 
 And using the comments above, I made the following changes to my sketches:
-- In all three panels, I added a legend that specifies the "size" of the dot (i.e 1 dot = 1 million people). As per the users' feedback, this would helo visualize the extend of the population concerned.
+- In all three panels, I added a legend that specifies the "size" of the dot (i.e 1 dot = 1 million people). As per the users' feedback, this would help visualize the extent of the population concerned.
 - In Panel 1, I changed the title from "For every 100 hourly workers, 1 person makes $7.25 or less" to "For every 100 people getting paid hourly, 1 person makes $7.25 or less". The phrasing "hourly wokers" (used by the Bureau of Labor Statistics) was confusing to users.
 - In Panel 3, I changed the legend to rely on color only. Instead of using shading to represent age, I used a difference in opacity of the same hue. I used light blue for older women, dark blue for younger women, light green for older men, and dark green for younger men.
 - In Panel 3, I added a sub-title: "Contrary to popular belief that the lowest earners are teenagers, most are aged 25 or older". I used this to frame the reasons behind my addition of the age variable and to help users understand why considering age matters when we discuss minimum wage.
