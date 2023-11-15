@@ -4,7 +4,7 @@
 # Title
 More info to come
 
-# Step 4: Test the Solution
+# Step 4a: Test the Solution
 
 To test my sketches, I interviewed two people. I used the same set of questions for both interviewees and the same questions for all three visualizations. To protect anonymity, I paraphrased their answers.
 
@@ -79,8 +79,36 @@ Meriem: Who do you think is the intended audience for this?
 
 User 1: Anyone. Much easier to understand.
 
-Meriem: Is there anything you would change or do differently? If you wanted to make it more interesting, you can add lines for gender and age. A line for women , a line for men etc… To show that trends are different for different subgroups
+Meriem: Is there anything you would change or do differently? 
 
+User 1: If you wanted to make it more interesting, you can add lines for gender and age. A line for women , a line for men etc… To show that trends are different for different subgroups
+
+### User 2: Graduate Student, mid 20s
+
+#### Vizualization 1: 3-Panels "Unit" Chart
+#### Vizualization 2: Bar Charts
+#### Vizualization 3: Line graph
+
+# Step 4b: Reflection
+
+Pulling from the two interviews recorded above and the in-class critique exercise, the following similarities came up:
+
+- Users found the combination of color and shading (to represent gender and age) confusing and hard to understand.
+- Stacked charts made it hard to compare different chunks.
+- In Viz 1 and Viz 2, I did not include age in the titles but included it in the graph and legend. This was confusing to users.
+- The titles could be phrased more clearly
+- Generally, users liked Viz 1 but thought that its interactive aspect did not easily come through through hand-written sketches. I agree with this statement and I think this was one of the limitations of hand sketching an interactive design: I could not properly communicate my vision via the sketches and I had to explain it to the users.
+
+Differences included:
+- One of the users liked the simplicity and clarity of the line chart, but classmates (during the in-class critique) found the percentages to be hard to interpret with.
+
+Upon reflecting on these comments, I decided to go forward with Visualization number 1. I think this visualization sets out to resolve a few issues discussed in my critique:
+- Moving away from state-to-state comparisons and focusing on the picture at a national-level.
+- Focuses both on "how many" people make at or below minimum wage but also "who" makes that.
+-  Visualizes percentages in a way that may be easier to understand. I find this specifically helpful when talking about percentages of percentages: Like 67% of 1% is hard to grasp so I was hoping that the unit chart would help me visualize this.
+
+And using the comments above, I made the following changes to my sketches:
+- In Panel 3, I changed the legend to rely on color only. Instead of using shading to represent age, I used a difference in opacity of the same hue. I used 
 
 
 # Step 5: Built My Solution
