@@ -32,8 +32,8 @@ Hi!  I'm Meriem (she/her) and here's what you need to know about me:
 ## Assignment: [Visualizing Government Debt](visualizing-debt.md)
 Check out how I used three different visualizations to display government debt
 
-## Assignment 3&4: Critique by Design
-More to come
+## Assignment 3&4: [Critique By Design](critique-by-design.md)
+Check out how I redesigned a visualization
 
 ## Final project
 More info to come
