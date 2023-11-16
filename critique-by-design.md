@@ -13,14 +13,14 @@ For the critique, please refer to the Google form response.
 
 # Step 3: Sketch out a Solution
 
-Pulling from my critique (see respond to google form), I set out to resolve a few issues in the original visualization. My goal was to: 
+Pulling from my critique (see response to google form), I set out to resolve a few issues in the original visualization. My goal was to: 
 
 - Move away from state-to-state comparisons and focus on the story at a national-level.
 - Focus both on *how many* people make at or below minimum wage but also *who* makes at or below min wage.
 - Visualize percentages in a way that may be easier to understand. I find this specifically helpful when talking about percentages of percentages: like 67% of 1% is hard to grasp so I was hoping to find ways to make that easier to work with.
 
-In order to achieve the gaols above, I had to use datasets beyond what [MakeoverMonday](https://data.world/makeovermonday/2023w18) provided. I used the original data source - [Bureau of Labor Statistics](https://www.bls.gov/opub/reports/minimum-wage/2022/home.htm) - to complement my visualization. In particular, I was interested in knowing:
-- What are the demographics of people making at or below minimum wage? What is the distribution of age and gender? Popular rhetoric around minimum wage focuses on the idea that most people who make minimum wage are high schoolers or teenagers with low expenses, and therefore, it would not help to increase federal minimum wage. From a policy standpoint, I wanted to know if this had any truth to it.
+In order to achieve the gaols above, I had to use datasets beyond what [MakeoverMonday](https://data.world/makeovermonday/2023w18) provides. I used the original data source - [Bureau of Labor Statistics](https://www.bls.gov/opub/reports/minimum-wage/2022/home.htm) - to complement my visualization. In particular, I was interested in knowing:
+- What are the demographics of people making at or below minimum wage? What is the distribution of age and gender? Popular rhetoric around minimum wage focuses on the idea that most people who make minimum wage are high schoolers or teenagers with low expenses, and therefore, it would increase federal minimum wage would not have much an impact on society. From a policy standpoint, I wanted to know if this had any truth to it.
 - What is the exact number of these populations?
 
 Using additional data was necessary to answer my questions.
@@ -58,12 +58,12 @@ User 1: A lot of people are making under minimum wage and most of them are women
 Meriem: Is there anything you find surprising or confusing?
 
 User 1: I find it suprising that so many people make under minimum wage.
-What I find confusing is that the third panel has 2 variables. Having two variables (both age and gender) makes it confusing. The legend if also confusing: using both color and shade to represent age and gender is confusing.
+What I find confusing is that the third panel has 2 variables. Having two variables (both age and gender) makes it confusing. The legend is also confusing: using both color and shade to represent age and gender is confusing.
 Additionally, the title in third panel has nothing to do with age. In the third panel, it seems like half of them are younger and half of them are older. So what’s the point? What are you trying to say here? 
 
 Meriem: Who do you think is the intended audience for this?
 
-User 1: People who are interested in graphs about who makes less than minim wage. I don’t think the audience is people making less than minimum wage. Audience is to educate broadly
+User 1: People who are interested in graphs about who makes less than minimum wage. I don’t think the audience is people making less than minimum wage. Audience is to educate broadly
 
 Meriem: Is there anything you would change or do differently?
 
