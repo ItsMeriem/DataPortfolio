@@ -130,12 +130,12 @@ From this, I concluded that women make up most of the hourly wokers that do earn
 
 Meriem: Is there anything you find surprising or confusing?
 
-User 2: Surprising: that women make up 67% is surprising. Does that mean that they are employed more? Do they make more of the sample size? Or do they generally make up more of the low earners? Confusing: The title “for every 100 hourly workers, 1 person makes $7.25 or less” is confusing. 
+User 2: Surprising: that women make up 67%. Does that mean that they are employed more? Do they make more of the sample size? Or do they generally make up more of the low earners? Confusing: The title “for every 100 hourly workers, 1 person makes $7.25 or less” is confusing. 
 
 
 Meriem: Is there anything you would change or do differently?
 
-User 2: I would clarify that in the first two panels is looking at all genders (totals)
+User 2: I would clarify that the first two panels are looking at all genders (totals)
 
 Meriem: What do you think of the text (titles, legend etc..)? 
 
@@ -182,17 +182,12 @@ Pulling from the two interviews recorded above and the in-class critique exercis
 - Stacked charts made it hard to compare different chunks.
 - In Viz 1 and Viz 2, I did not include age in the titles but included it in the graph and legend. This was confusing to users.
 - The titles could be phrased more clearly
-- Generally, users liked Viz 1 but thought that its interactive aspect did not easily come through through hand-written sketches. I agree with this statement and I think this was one of the limitations of hand sketching an interactive design: I could not properly communicate my vision via the sketches and I had to explain it to the users.
+- Generally, users liked Viz 1 but thought that its interactive aspect did not easily come through through hand-written sketches. I agree with this statement and I think this was one of the limitations of hand sketching an interactive design: I could not properly communicate my vision via the sketches.
 
 Differences included:
-- One of the users liked the simplicity and clarity of the line chart, but classmates (during the in-class critique) found the percentages to be hard to interpret with.
+- One of the users liked the simplicity and clarity of the line chart, but classmates (during the in-class critique) found the percentages to be hard to interpret.
 
-Upon reflecting on these comments, I decided to go forward with Visualization number 1. I think this visualization sets out to resolve a few issues discussed in my critique:
-- Moving away from state-to-state comparisons and focusing on the picture at a national-level.
-- Focuses both on "how many" people make at or below minimum wage but also "who" makes that.
--  Visualizes percentages in a way that may be easier to understand. I find this specifically helpful when talking about percentages of percentages: Like 67% of 1% is hard to grasp so I was hoping that the unit chart would help me visualize this.
-
-And using the comments above, I made the following changes to my sketches:
+Upon reflecting on these comments, I decided to go forward with Visualization number 1 and I made the following changes to my sketches:
 - In all three panels, I added a legend that specifies the "size" of the dot (i.e 1 dot = 1 million people). As per the users' feedback, this would help visualize the extent of the population concerned.
 - In Panel 1, I changed the title from "For every 100 hourly workers, 1 person makes $7.25 or less" to "For every 100 people getting paid hourly, 1 person makes $7.25 or less". The phrasing "hourly wokers" (used by the Bureau of Labor Statistics) was confusing to users.
 - In Panel 3, I changed the legend to rely on color only. Instead of using shading to represent age, I used a difference in opacity of the same hue. I used light blue for older women, dark blue for younger women, light green for older men, and dark green for younger men.
