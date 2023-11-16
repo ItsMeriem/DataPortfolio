@@ -1,39 +1,43 @@
 | [home page](https://itsmeriem.github.io/Meriem/) | [Ranking of News Orgs](news-ranking.md) | [visualizing debt](visualizing-debt.md) | [critique by design](critique-by-design.md) | [final project](final-project.md)
 
 
-# Title
-More info to come
-
-# Step 1 and 2:
+# Step 1 and 2: Select and Critique the Visualization
 
 For this assignment, I chose to focus on this [visualization published by Business Insider](https://www.businessinsider.com/federal-minimum-wage-workers-map-2018-10?r=US&IR=T) showing "Workers Making Minimum Wage or Less". The associated MakeoverMonday Data can be found [here](https://data.world/makeovermonday/2023w18). For convenience, I am also attaching a screenshot of the visualization.
 
 <img src="min_wage_viz.png"/>
 
 
+For the critique, please refer to the Google form response.
+
 
 # Step 3: Sketch out a Solution
 
-Pulling from my critique above, I set out to resolve a ![image](https://github.com/ItsMeriem/Meriem/assets/149505081/8620323d-43c5-4fc7-9526-ce7fd9b2d365)
-few issues in the original visualization. My goal was to: 
+Pulling from my critique (see respond to google form), I set out to resolve a few issues in the original visualization. My goal was to: 
 
 - Move away from state-to-state comparisons and focus on the story at a national-level.
-- Focus both on "how many" people make at or below minimum wage but also "who" makes at or below min wage.
+- Focus both on *how many* people make at or below minimum wage but also *who* makes at or below min wage.
 - Visualize percentages in a way that may be easier to understand. I find this specifically helpful when talking about percentages of percentages: like 67% of 1% is hard to grasp so I was hoping to find ways to make that easier to work with.
+
+In order to achieve the gaols above, I had to use datasets beyond what [MakeoverMonday](https://data.world/makeovermonday/2023w18) provided. I used the original data source - [Bureau of Labor Statistics](https://www.bls.gov/opub/reports/minimum-wage/2022/home.htm) - to complement my visualization. In particular, I was interested in knowing:
+- What are the demographics of people making at or below minimum wage? What is the distribution of age and gender? Popular rhetoric around minimum wage focuses on the idea that most people who make minimum wage are high schoolers or teenagers with low expenses, and therefore, it would not help to increase federal minimum wage. From a policy standpoint, I wanted to know if this had any truth to it.
+- What is the exact number of these populations?
+
+Using additional data was necessary to answer my questions.
 
 ### Vizualization 1: 3-Panels "Unit" Chart
 
-My first sketch aims to visualize percentages as dots and focuses on "who" makes below minimum wage. I envision these as three interactive panels. In panel 1, users could click on the one dot representing people making at or below $7.25, and that would trigger an effect where we zoom-in on the dot and then the one dot gets "divided" into 100 dots, leading us to the next panel. Find sketches below: 
+My first sketch aims to visualize percentages as dots and focuses on *who* makes below minimum wage. I envision these as three interactive panels. In panel 1, users could click on the one dot representing people making at or below $7.25, and that would trigger an effect where we zoom-in on the dot and then the one dot gets "divided" into 100 dots, leading us to the next panel. Find sketches below: 
 
-[include image]
+<img src="Viz1.jpeg"/>
 
 ### Vizualization 2: Bar Chart
 
-[include image]
+<img src="Viz2.jpeg"/>
 
 ### Vizualization 3: Line graph
 
-[include image]
+<img src="Viz3.jpeg"/>
 
 # Step 4a: Test the Solution
 
@@ -117,8 +121,58 @@ User 1: If you wanted to make it more interesting, you can add lines for gender 
 ### User 2: Graduate Student, mid 20s
 
 #### Vizualization 1: 3-Panels "Unit" Chart
+
+Meriem: Can you tell me what you think this is / Can you describe to me the story this is telling?
+
+User 2: Overall, it looks like you are trying to display the differences between different groups of people in regards to minimum wage. The panels show differences between men vs. women, and those making less than 7.25 vs. those at 7.25.
+From this, I concluded that women make up most of the hourly wokers that do earn 7.25 or less.
+
+
+Meriem: Is there anything you find surprising or confusing?
+
+User 2: Surprising: that women making up 67% is surprising. Does that mean that they are employed more? Do they make more of the sample size? Or do they generally make up more of the low earners? Confusing: The title “for every 100 hourly workers, 1 person makes $7.25 or less” is confusing. 
+
+
+Meriem: Is there anything you would change or do differently?
+
+User 2: I would clarify that in the first two panels is looking at all genders (totals)
+
+Meriem: What do you think of the text (titles, legend etc..)? 
+
+User 2: In the third panel, gender and age together are confusing. Two points are being made in one image so that’s confusing. 
+
 #### Vizualization 2: Bar Charts
+
+Meriem: Can you tell me what you think this is?
+
+User 2: This bar chart is focusing more on the differences between men and women
+
+Meriem: Is there anything you find surprising or confusing?
+
+User 2: Having both age and gender in the legend is confusing.
+
+Meriem: Who do you think is the intended audience for this?
+
+User 2: HR or policy makers
+
+Meriem: Is there anything you would change or do differently?
+
+User 2: I would change the way age is portrayed.
+
 #### Vizualization 3: Line graph
+
+
+Meriem: Can you tell me what you think this is?
+
+User 2: This is showing me the trend over time of the number of people making at or below minimum wage.
+
+Meriem: Is there anything you find surprising or confusing?
+
+User 2: I am wondering why has the decrease occured? Are more people becoming unemployed? Are companies paying their workers more?
+
+Meriem: Is there anything you would change or do differently?
+
+User 2: I would include an analysis on why this has decreased over time.
 
 # Step 4b: Reflection
 
@@ -170,3 +224,6 @@ The navigation instructions should be pretty straightforward on the visualizatio
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                   
   vizElement.parentNode.insertBefore(scriptElement, vizElement);               
 </script>
+
+
+Sources: [Bureau of Labor Statistics](https://www.bls.gov/opub/reports/minimum-wage/2022/home.htm) and [MakeoverMonday](https://data.world/makeovermonday/2023w18)
