@@ -130,7 +130,7 @@ From this, I concluded that women make up most of the hourly wokers that do earn
 
 Meriem: Is there anything you find surprising or confusing?
 
-User 2: Surprising: that women making up 67% is surprising. Does that mean that they are employed more? Do they make more of the sample size? Or do they generally make up more of the low earners? Confusing: The title “for every 100 hourly workers, 1 person makes $7.25 or less” is confusing. 
+User 2: Surprising: that women make up 67% is surprising. Does that mean that they are employed more? Do they make more of the sample size? Or do they generally make up more of the low earners? Confusing: The title “for every 100 hourly workers, 1 person makes $7.25 or less” is confusing. 
 
 
 Meriem: Is there anything you would change or do differently?
