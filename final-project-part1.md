@@ -21,6 +21,15 @@ Last but not least, I will give the user ways to act on this issue including con
 
 # Initial sketches
 
+Here are my initial sketches. 
+
+<img src="1.jpeg"/>
+
+<img src="2.jpeg"/>
+
+<img src="3.jpeg"/>
+
+
 # The data
 
 I will use a combination of different datasets:
