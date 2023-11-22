@@ -37,7 +37,7 @@ Check out how I redesigned a visualization
 
 ## Final project 
 ### [Part 1](final-project-part1.md)
-Learn more about my project
+Check out my initial plan for my project
 
 ---
 ## Important Links 
