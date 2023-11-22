@@ -1,4 +1,4 @@
-| [home page](https://itsmeriem.github.io/Meriem/) | [Ranking of News Orgs](news-ranking.md) | [visualizing debt](visualizing-debt.md) | [critique by design](critique-by-design.md) | [final project](final-project.md)
+| [home page](https://itsmeriem.github.io/Meriem/) | [Ranking of News Orgs](news-ranking.md) | [visualizing debt](visualizing-debt.md) | [critique by design](critique-by-design.md) | [final project part 1](final-project-part1.md)
 
 **Welcome to my portfolio where I tell stories with data at CMU!** Here's where all my cool work will go. 
 
@@ -35,8 +35,9 @@ Check out how I used three different visualizations to display government debt
 ## Assignment 3&4: [Critique By Design](critique-by-design.md)
 Check out how I redesigned a visualization
 
-## Final project
-More info to come
+## Final project 
+### [Part 1](final-project-part1.md)
+Learn more about my project
 
 ---
 ## Important Links 
