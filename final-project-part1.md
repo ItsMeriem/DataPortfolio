@@ -31,3 +31,5 @@ I will use a combination of different datasets:
 - [List of power stations in Pennsylvania, by county](https://en.wikipedia.org/wiki/List_of_power_stations_in_Pennsylvania#Former_power_stations), including former ones.
 
 # Method and medium
+
+To build my story, I will use Shorthand. This will be an easy and useful way to build a webview of my story. I will need to learn how to embed interactive visualization on Shorthand. To clean and merge the datasets discussed above, I will use R.
