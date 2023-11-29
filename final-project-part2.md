@@ -14,13 +14,15 @@ Include your approach to identifying representative individuals, and who you hop
 
 Text here!
 
-| Goal                                                        | Questions to Ask                                    |
-|-------------------------------------------------------------|-----------------------------------------------------|
-| - Understanding reader's main takeaway from the story,      |  - Tell me what this is telling you?                |
-| in order to understand if I'm conveying the message well.   |                                                     |
-|                                                             |                                                     |
-|                                                             |                                                     |
-
+| Goal                                                        | Questions to Ask                                                     |
+|-------------------------------------------------------------|----------------------------------------------------------------------|
+| - Understanding reader's main takeaway from the story.      |  - Tell me what this is telling you? What did you learn?             |
+| - Understanding how comprehensible the story is?            |  - Did you find anything confusing? Did you find anything surprising |
+| - Understanding how effective the visualizations are?       |  - What is each data visualization telling you?                       |
+| - Understanding how comprehensible the data viz are?          |  - Was anything confusing or surprising about the data visualizations? What would you change?|
+| - Getting a sense of if the text and the viz complement each other | - Did you read the text or the data viz first? How did you use the text to understand the data viz? |
+| - Is the story effective at inspiring readers to take action | - What would you like to do after reading this?
+| 
 
 Text here!
 
