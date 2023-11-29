@@ -27,7 +27,26 @@ Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+Miguel:
 
+What is it telling uou? It tells me that the government does not care about poor people. Conflicted, sometimes I struggle with environmental racism. Poor people vs. race. The fine is really low. US does not care about the health outcomes associated with pollution. more interested in supporting steel industry. 
+I wonder how often people are measuring air quality. No one is looking. It took them a long time to figure out it's that bad.
+
+How long did it take people to realize that quality is bad? Was it because of cancer risk first and then realized that it was bad? 
+
+That's low the fine - fine per violation here in US steel vs other places or vs EPA. is local gov less likely to fine? Most curious about the fines. These are the only things that companies will respond to!!!! 
+
+Viz 3 --> label the y axis. Include th eunit. 
+
+Go for the text first. the text helped yo uunderstand the graph. Reading the text first helps you focus on the difference. 
+
+Viz 1 --> was effective in getting the point across. 
+
+The political behind it --> is enough being done? inaction by the local governmeent? 
+
+Action - make your voice heard?
+
+> 
 Laila: woman, mid-20s, current graduate student, 
 What is this telling you? Telling the story of US capitalism. How steal companies are continuously not being held account for the risks that they are putting people through, especially that these residents are low income. So there is a blatant disregard for the effects that this is having. 
 Anythign conrusing : nothing 
