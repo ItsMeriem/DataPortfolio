@@ -28,6 +28,31 @@ Text here!
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
+Laila: woman, mid-20s, current graduate student, 
+What is this telling you? Telling the story of US capitalism. How steal companies are continuously not being held account for the risks that they are putting people through, especially that these residents are low income. So there is a blatant disregard for the effects that this is having. 
+Anythign conrusing : nothing 
+Anything suprrisingL yes, about the cancer risk, surprising and why the EPA is not holding them accountable to the standards it has put in place. Very pormiment env racism.
+
+For viz 1: add a unit on the y axis. and add a year of when these caclulations were made.
+fOR VIZ 2: timeline is good. Clarify it's people (unit) --> try with a unit chart (similar to minimum wage unit chart).
+
+Thoughts on additional viz: more breakdown of demographics of clariton residents (age, race, gender etc..).
+
+Read text first, then viz then go back to text. Did help, complementary.
+
+what do you want to do? burn down the steel factory.
+
+
+Christina: woman, early 20s, current graduate student, no data background, domestic student
+
+wHAT IS THIS telling you? there is major pollution in clairton and it's environmental racism because majhority of people are poc
+Confusing? no. 
+Suprising? there's no policy alternatives yet
+Nothing confusing about the graohs
+but need a poc demographics breakdown.
+Visual then text. complementary enough? yes
+Create a policy alternative for this. Interested to see if Clairton is a red zone. Interested in light of her own work.
+
 Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
