@@ -3,20 +3,23 @@
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+My target audience is Allegheny County residents generally. This story is meant for any Allegheny county residents who are able to take action towards building a safer future for the residents of Clairton, PA. This includes voters who can pressure local government officials to enforce environmental compliance. It also includes people (voters or non voters) who are able to work with advocacy groups to achieve change.
 
-Text here!
+To identify a sample of interviewees that is representative of my target audience, I focused on people who live in Allegheny county. I made sure that my sample has a representative sample across age and gender. I also would like to ensure that my story is accessible to people without a data background so half of my interviewees do not have a data background.
+Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
 
 Text here!
 
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| Goal                                                        | Questions to Ask                                    |
+|------  ---------------------------------------------------- |-----------------------------------------------------|
+| - Understanding reader's main takeaway from the story,      |  - Tell me what this is telling you?                |
+| in order to understand if I'm conveying the message well.   |                                                     |
+|                             |                  |
+|                             |                  |
 
 
 Text here!
