@@ -21,8 +21,7 @@ Text here!
 | - Understanding how effective the visualizations are?       |  - What is each data visualization telling you?                       |
 | - Understanding how comprehensible the data viz are?          |  - Was anything confusing or surprising about the data visualizations? What would you change?|
 | - Getting a sense of if the text and the viz complement each other | - Did you read the text or the data viz first? How did you use the text to understand the data viz? |
-| - Is the story effective at inspiring readers to take action | - What would you like to do after reading this?
-| 
+| - Is the story effective at inspiring readers to take action | - What would you like to do after reading this? |
 
 Text here!
 
