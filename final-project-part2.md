@@ -15,11 +15,11 @@ Include your approach to identifying representative individuals, and who you hop
 Text here!
 
 | Goal                                                        | Questions to Ask                                    |
-|------  ---------------------------------------------------- |-----------------------------------------------------|
+|-------------------------------------------------------------|-----------------------------------------------------|
 | - Understanding reader's main takeaway from the story,      |  - Tell me what this is telling you?                |
 | in order to understand if I'm conveying the message well.   |                                                     |
-|                             |                  |
-|                             |                  |
+|                                                             |                                                     |
+|                                                             |                                                     |
 
 
 Text here!
