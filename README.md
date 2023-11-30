@@ -36,8 +36,12 @@ Check out how I used three different visualizations to display government debt
 Check out how I redesigned a visualization
 
 ## Final project 
+
 ### [Part 1](final-project-part1.md)
 Check out my initial plan for my project
+
+### [Part 2](final-project-part2.md)
+Checkout a more refined storyboard of my project. This includes the Shorthand link to the story and user research. 
 
 ---
 ## Important Links 
