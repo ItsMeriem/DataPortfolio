@@ -1,5 +1,6 @@
 | [home page](https://itsmeriem.github.io/Meriem/) | [Ranking of News Orgs](news-ranking.md) | [visualizing debt](visualizing-debt.md) | [critique by design](critique-by-design.md) | [final project part 1](final-project-part1.md) | [final project part 2](final-project-part2.md) | [final project part 3](final-project-part3.md)  
 
+# Final Project - Part 1
 
 # Outline
 
@@ -42,3 +43,5 @@ I will use a combination of different datasets:
 # Method and medium
 
 To build my story, I will use Shorthand. This will be an easy and useful way to build a webview of my story. I will need to learn how to embed interactive visualization on Shorthand. To clean and merge the datasets discussed above, I will use R.
+
+# Next Up: [Part 2](final-project-part2.md)
