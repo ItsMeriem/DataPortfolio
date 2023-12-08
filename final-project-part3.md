@@ -45,29 +45,25 @@ However, given that I dived deeper into the fines and how they are not effective
 Overall, after a couple iterations, my two audiences are: Allegheny residents and activists who are interested in advocating for a safer future, and policy makers who are interested in improving the incentives to ensure compliance with federal and local regulations.
 
 ### Design changes
+
+I made the following design changes: 
+
+##### Tweaks to graphs
 My interviews showed that users wanted more clarity in units across all graphs. I updated the graphs accordingly.
 
 ##### Leveraging background color 
 After discussing with Aman the background colors and my story arc, I decided to sync the background color with my story. Unfortunately, my story is a rather sad one so I used a dark background throughout to convey an appropriate sentiment. But for the call to action, I switched to a light background to inspire a feeling of hope. 
 
-##### "Increased Risk of Cancer" Chart
+##### "Excess LifeTime Cancer Risk" Chart
 In phase 2, the chart below was still a hand-sketched graph. I tried making it on Tableau, however, that was not successful. Instead, I used Canva to create this timeline. 
 
 <img src="Beige Minimal Timeline Graph.png" width="200"/>
 
+### Images
+Before the instructions to Part 3 were discussed in class, I was not familiar with copyrigt issues when it came to images. So I had to change all images I used for my story and only included images that were not copyright material. Unsplash was an easy tool for this. 
 
-including clarifying units across all three graphs, using Canva for an inforgraphic-style addition, and using background color to fit in with the story arc (darker background for 
-[
-
-A few paragraphs that reflects on changes you made since the completion of Part II.  Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-
-Github page(s) for final project is complete, well organized and summarizes all the work done thus far. Provides behind the scenes look at how the work was created for Part III. Link to Github repository (portfolio page) and the final publicly available Shorthand (or other acceptable site) is included. Other information as relevant / needed included in the Part III writeup.
-
-Part III writeup includes a few paragraphs that talk about the intended audience, personas if used, and changes made with the audience in mind.
-
-
-A few paragraphs summarizing work, design decisions and observations.
+# ADD
+if i have time add infor on the fact that i used R to prepare the clean dataset then used Tableau
 
 
 ## References
@@ -75,4 +71,5 @@ A few paragraphs summarizing work, design decisions and observations.
 ### Data Sources Used for Visualizations
 
 ### Articles Cited
+
 Images are cited correctly, follow library guidelines on acceptable use. Links working. Final page includes all links / references for everything used in project. Citations are detailed enough to easily track back to original sources
