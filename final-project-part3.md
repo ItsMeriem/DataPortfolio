@@ -15,7 +15,7 @@ Since Part 2, I have made the following changes:
 
 ### Fine Structure
 
-In my part 2 user interviews, it was evident that many users were curious about *why* did violations continue despite multiple fines by the local government. Users wanted to understand if the fines were enough and if enough was done to enforce compliance. 
+In my part 2 user interviews, it was evident that many users were curious about *why* did violations continue despite multiple fines by the local government. Users wanted to understand if the fines were an effective incentive and if enough was done to enforce compliance. 
 
 To answer these questions, I got data for U.S. Steel (USS) annual profit for 2022, cost of upgrading the plant, and total amount of fines over 2022 (sources for these data are listed below). Using this information, I added a new section to my story where I focused on the fine structure and if they were incentive enough.
 
