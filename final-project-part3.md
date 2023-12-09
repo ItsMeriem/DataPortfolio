@@ -65,14 +65,36 @@ In phase 2, the chart below was still a hand-sketched graph. I tried making it o
 ### Images
 Before the instructions to Part 3 were discussed in class, I was not familiar with copyrigt issues when it came to images. So I had to change all images I used for my story and only included images that were not copyright material. Unsplash was an easy tool for this. 
 
-# ADD
-if i have time add infor on the fact that i used R to prepare the clean dataset then used Tableau
 
 
 ## References
 
 ### Data Sources Used for Visualizations
 
+For the Levels of Toxic Releases to Air, I used EPA EJ screen data. I used R to briefly clean the data, then produced the visualization on Tableau: Environmental Protection Agency: Environmental Justice (EJ) Screen and Mapping Tool. Data Can Be Downloaded [here](https://www.epa.gov/ejscreen/download-ejscreen-data)
+
+For the "Excess Lifetime Cancer Risk", I used data from ProPublica: Shaw, A. and Younes, L (2021, November 2nd). The Most Detailed Map of Cancer-Causing Industrial Air Pollution in the U.S. ProPublica. [Link](https://projects.propublica.org/toxmap/)
+
+For the line chart showing poverty levels, I used data from the census bureau. I used R to clean and aggregate the data and produced the visualization on Tableau: [Link](https://www.census.gov/data-tools/demo/saipe/#/?s_state=42&s_geography=district&s_measures=5_17_fam&x_tableYears=)
+
+For the scrollmation in "Enforcement": Zenkevich, J. U.S. Steel fined more than $4.5 million for air pollution in Clairton. NPR State Impact. [Link](https://stateimpact.npr.org/pennsylvania/2022/03/25/u-s-steel-fined-4-5-million-for-air-pollution-in-clairton/)
+
+For the bar chart showing the difference between profit, cost of repair and fines, I combined multiple sources. For profit, I used: [MacroTrends](https://www.macrotrends.net/stocks/charts/X/united-states-steel/net-income). For cost of repair, I estimated the figure using USS's plan to revamp its Mon Valley Works plants. The plan was cancelled in 2021. Sources: [Link 1](https://www.post-gazette.com/business/career-workplace/2019/05/02/U-S-Steel-to-spend-1-billion-on-Mon-Valley-Works/stories/201905020023), and [Link 2](https://www.pghcitypaper.com/news/us-steel-cancels-1-billion-upgrades-to-local-facilities-plans-to-close-high-emissions-batteries-at-clairton-coke-works-19379355)
+
+
 ### Articles Cited
+
+Glabicki, Q. (2021, November 19). The City of Prayer: Clairton’s residents persevere amid persistent pollution and violence. Public Source. [Link](https://www.publicsource.org/clairton-city-of-prayer-portraits-illness-trauma-advocacy-resilience/#illness)
+
+Hurdle, J. (2022, January 27th). YaleEnvironment 360. For Low-Income Pittsburgh, Clean Air Remains an Elusive Goal. [Link](https://e360.yale.edu/features/for-low-income-pittsburgh-clean-air-remains-an-elusive-goal)
+
+Shaw, A. and Younes, L (2021, November 2nd). The Most Detailed Map of Cancer-Causing Industrial Air Pollution in the U.S. ProPublica. [Link](https://projects.propublica.org/toxmap/)
+
+
+
+
+
+
+
 
 Images are cited correctly, follow library guidelines on acceptable use. Links working. Final page includes all links / references for everything used in project. Citations are detailed enough to easily track back to original sources
