@@ -91,10 +91,11 @@ Hurdle, J. (2022, January 27th). YaleEnvironment 360. For Low-Income Pittsburgh,
 Shaw, A. and Younes, L (2021, November 2nd). The Most Detailed Map of Cancer-Causing Industrial Air Pollution in the U.S. ProPublica. [Link](https://projects.propublica.org/toxmap/)
 
 
+### Call of Action - Link
+
+[Breathe Project](https://breatheproject.org/about/)
+[Finding Your Legislator](https://www.legis.state.pa.us/cfdocs/legis/home/findyourlegislator/)
+[Article on innovations for environmental compliance](https://siepr.stanford.edu/publications/policy-brief/innovations-environmental-compliance-emerging-evidence-and-opportunities)
 
 
 
-
-
-
-Images are cited correctly, follow library guidelines on acceptable use. Links working. Final page includes all links / references for everything used in project. Citations are detailed enough to easily track back to original sources
