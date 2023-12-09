@@ -17,13 +17,21 @@ Since Part 2, I have made the following changes:
 
 In my part 2 user interviews, it was evident that many users were curious about *why* did violations continue despite multiple fines by the local government. Users wanted to understand if the fines were an effective incentive and if enough was done to enforce compliance. 
 
-To answer these questions, I got data for U.S. Steel (USS) annual profit for 2022, cost of upgrading the plant, and total amount of fines over 2022 (sources for these data are listed below). Using this information, I added a new section to my story where I focused on the fine structure and if they were incentive enough.
+First, I wanted to give an overview of how many fines had the USS received for the Clairton Plant in 2022. I did this using visuals from Canva that I combined using a scrollmation. I believe that using call out numebrs to tell this aspect of the story was more effective. I used the four visuals below:
 
-For the data visualization, I had a couple versions. I first tried to show the comparison using a bar chart (see visualization below). Given that the profit is in billions and the fines are in million, it was hard to observe the fine in the bar chart. I tried capitalizing on this difference by using the title to tell the story. See the graph below: 
+<img src="1.jpg" width="200"/> 
+<img src="2.jpg" width="200"/>
+<img src="3.jpg" width="200"/>
+<img src="4.jpg" width="200"/>
 
-<div class='tableauPlaceholder' id='viz1701979824129' style='position: relative'><noscript><a href='#'><img alt='If  It&#39;s Hard to See, the Fine is Too Small.The Total Annuals Fines are 0.07% of US Steel&#39;s Annual Profit, and the Cost of Upgrading the Plant to be Compliant is 40% of its Profit ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;finevsprofit&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='finevsprofit&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;finevsprofit&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
-<script type='text/javascript'>                   
-  var divElement = document.getElementById('viz1701979824129');                    
+
+Secondly, I wanted to investigate why these fines were not enough of a deterrent. I got data for U.S. Steel (USS) annual profit for 2022, cost of upgrading the plant, and total amount of fines over 2022 (sources for these data are listed below). Using this information, I added a new section to my story where I focused on the fine structure and if they were incentive enough.
+
+For the data visualization, I had a couple versions. I displayed the comparison using a bar chart (see visualization below). Given that the profit is in billions and the fines are in million, it was hard to observe the fine in the bar chart. I tried capitalizing on this difference by using the title to tell the story. See the graph below: 
+
+<div class='tableauPlaceholder' id='viz1702083779210' style='position: relative'><noscript><a href='#'><img alt='If It&#39;s too Hard to See, is it Effective?For 2022, the fines totaled 0.07% of US Steel&#39;s annual profit, while the cost of upgrading its plants to be compliant is 40% of its profit ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;finevsprofit&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='finevsprofit&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;finevsprofit&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>               
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1702083779210');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
   vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
   var scriptElement = document.createElement('script');                    
@@ -31,11 +39,6 @@ For the data visualization, I had a couple versions. I first tried to show the c
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-
-I was a bit conflicted about using this bar chart. On the one hand, the lack of visibility of the fine highlighted the point. On the other hand, I felt that maybe the use of big call-out statistics would be more effective. 
-So I tried a second version:
-
-ADD!!!!!!
 
 ### Audience
 In part 2, I had defined my audience as Allegheny county residents who are able to take action towards building a safer future for the residents of Clairton, PA. This includes voters who can pressure local government officials to enforce environmental compliance. It also includes people (voters or non voters) who are able to work with advocacy groups to achieve change.
