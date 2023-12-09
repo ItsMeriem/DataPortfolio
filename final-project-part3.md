@@ -65,7 +65,13 @@ In phase 2, the chart below was still a hand-sketched graph. I tried making it o
 ### Images
 Before the instructions to Part 3 were discussed in class, I was not familiar with copyrigt issues when it came to images. So I had to change all images I used for my story and only included images that were not copyright material. Unsplash was an easy tool for this. 
 
+## TurnItIn Submission
 
+To avoid TurnItIn flagging my own Shorthand story, I submitted before I published. 
+
+My TurnItIn submission came back with a 3% similarity score. I investigated the 3% and they were not relevant (i.e they flagged "Clairton Coke Works" which is just the name of the plant I discuss in my piece).
+
+<img src="turnitin.png" width="400"/>
 
 ## References
 
