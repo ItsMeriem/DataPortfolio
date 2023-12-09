@@ -3,7 +3,7 @@
 # Final Project - Part 3
 
 ## Final Data Story
-The final product can be found on Shorthand [here]() ADD: TO LINK!!!!
+The final product can be found on Shorthand [here](https://carnegiemellon.shorthandstories.com/air-pollution-clairton-pa/index.html) If the link does not work, please copy and paste this link: https://carnegiemellon.shorthandstories.com/air-pollution-clairton-pa/index.html
 
 ## Part 3 Process and Final Changes
 
