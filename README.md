@@ -1,4 +1,4 @@
-| [home page](https://itsmeriem.github.io/Meriem/) | [Neural Networks: Speech Recognition](UtterancetoPhonemeMapping.ipynb)| [visualizing debt](visualizing-debt.md) | [critique by design](critique-by-design.md) | [final project part 1](final-project-part1.md) | [final project part 2](final-project-part2.md) | [final project part 3](final-project-part3.md) 
+| [home page](https://itsmeriem.github.io/Meriem/) | [Neural Networks: Speech Recognition](UtterancetoPhonemeMapping.ipynb)| [Fairness in Federated Learning](fairness_in_FL.md) | [critique by design](critique-by-design.md) | [final project part 1](final-project-part1.md) | [final project part 2](final-project-part2.md) | [final project part 3](final-project-part3.md) 
 
 **Welcome to my portfolio where I tell stories with data at CMU!** Here's where all my cool work will go. 
 
