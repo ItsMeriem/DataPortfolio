@@ -1,3 +1,5 @@
+| [Home Page](https://itsmeriem.github.io/Meriem/)  | [Automatic Speech Recognition](UtterancetoPhonemeMapping.ipynb) | [Fairness in Federated Learning](fairness_in_FL.md) | [Poorer Pennsylvania Residents are Dying of Steel](https://carnegiemellon.shorthandstories.com/air-pollution-clairton-pa/index.html)
+
 <center>
     <h1>Fairness in Federated Learning</h1>
 </center>
