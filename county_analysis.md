@@ -13,12 +13,13 @@ As part of this challenge, I was provided two datasets relating to one of county
 <h3 align="center">Task and Methodology</h3>
 
 I was tasked to create two cross-tabulations reports (one for each outcome) showing for each demographic category, the:
+
 • Population %: The percentage of the total population.
 • Avg Risk Score: The average risk score for each feature category/bin.
 • Top 1%, 5% and 10%: The average risk score for the top 1%, 5%, 10% highest risk scores within the category.
 
 
-The goal of the cross tabs is to 
+The goal of the cross tabs is to
 1. Understand the demographic breakdown of the groups an intervention would be targeted towards if the model is used, and
 2. Understand how risk level varies across groups (i.e. gender or age buckets or people with a history of opioid use).
 
