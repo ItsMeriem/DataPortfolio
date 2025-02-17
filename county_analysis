@@ -1,0 +1,28 @@
+<h1 align="center">Allegheny County Analysis </h1>
+
+<h3 align="center">Introduction</h3>
+I conducted this analysis as part of a 3-hour long Data Challenge.
+
+The primary goal of this challenge is to analyze two datasets and prepare a cross-tabulation report that can help the county understand the relationship between various demographics (age, gender, ..) and the estimated probability of a person being at risk of death and/or jail.
+
+<h3 align="center">Datasets</h3>
+As part of this challenge, I was provided two datasets relating to one of county’s welfare interventions:
+1. Demographics Dataset: It contains demographics variables (age, sex, race, history of opiod use etc.. ) for each person 
+2. Risk Scores Dataset: It includes out-of-sample risk scores for two outcomes (mortality and jail). These scores represent the estimated probability of a person being at risk of death and jail.
+
+<h3 align="center">Task and Methodology</h3>
+
+I was tasked to create two cross-tabulations reports (one for each outcome) showing for each demographic category, the:
+• Population %: The percentage of the total population.
+• Avg Risk Score: The average risk score for each feature category/bin.
+• Top 1%, 5% and 10%: The average risk score for the top 1%, 5%, 10% highest risk scores within the category.
+
+
+The goal of the cross tabs is to 
+1. Understand the demographic breakdown of the groups an intervention would be targeted towards if the model is used, and
+2. Understand how risk level varies across groups (i.e. gender or age buckets or people with a history of opioid use).
+
+```python
+def hello_world():
+    print("Hello, World!")
+```
