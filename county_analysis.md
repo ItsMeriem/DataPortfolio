@@ -1,4 +1,4 @@
-<h1 align="center">Allegheny County Analysis </h1>
+<h1 align="center">Analysis of Mortality and Imprisonment Risk Across Demographic Variables</h1>
 
 <h3 align="center">Introduction</h3>
 I conducted this analysis as part of a 3-hour long Data Challenge.
