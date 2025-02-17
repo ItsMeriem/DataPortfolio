@@ -1,23 +1,24 @@
-<h1 align="center">Analysis of Mortality and Imprisonment Risk Across Demographic Variables</h1>
+<h1 align="center">Analysis of Mortality and Incarceration Risk Across Demographic Variables</h1>
 
 <h3 align="center">Introduction</h3>
-I conducted this analysis as part of a 3-hour long Data Challenge.
+I conducted this analysis as part of a 3-hour long Data Challenge.<br><br>
 
-The primary goal of this challenge is to analyze two datasets and prepare a cross-tabulation report that can help the county understand the relationship between various demographics (age, gender, ..) and the estimated probability of a person being at risk of death and/or jail.
+The primary goal of this challenge is to analyze two datasets and prepare a cross-tabulation report that can help the county understand the relationship between various demographics (age, gender, etc) and the probability a person is at risk of death and incarceration.
 
 <h3 align="center">Datasets</h3>
-As part of this challenge, I was provided two datasets relating to one of county’s welfare intervention programs:
+As part of this challenge, I was provided two datasets relating to one of the county’s welfare intervention programs:
 
-1. **Demographics Dataset:** Contains demographics variables (age, sex, race, history of opiod use etc.. ) for each person 
-2. **Risk Scores Dataset:** Includes out-of-sample risk scores for two outcomes (mortality and jail). These scores represent the estimated probability of a person being at risk of death and jail.
+1. **Demographics Dataset:** Contains demographics variables (age, sex, race, history of opiod use, etc) for each person 
+2. **Risk Scores Dataset:** Includes out-of-sample risk scores for two outcomes (mortality and incarceration). These scores represent the estimated probability of a person being at risk of death and incarceration
+
 
 <h3 align="center">Task and Methodology</h3>
 
-I was tasked to analyze both datasets and create two cross-tabulations reports (one for each outcome) showing for each demographic category, the:
+I was tasked to analyze both datasets and create two cross-tabulations reports (one for mortality and one for incarceration) showing for each demographic category, the:
 
-- **Population %:** The percentage of the total population.
-- **Avg Risk Score:** The average risk score for each feature category/bin.
-- **Top 1%, 5% and 10%:** The average risk score for the top 1%, 5%, 10% highest risk scores within the category.
+- **Population %:** The percentage of the population in the dataset with the variable
+- **Avg Risk Score:** The average risk score for each category
+- **Top 1%, 5% and 10%:** The average risk score for the top 1%, 5%, 10% highest risk scores within the category
 
 
 The goal of the cross tabs is to
