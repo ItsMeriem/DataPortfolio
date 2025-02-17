@@ -21,9 +21,9 @@ I was tasked to analyze both datasets and create two cross-tabulations reports (
 - **Top 1%, 5% and 10%:** The average risk score for the top 1%, 5%, 10% highest risk scores within the category
 
 
-The goal of the cross tabs is to
+The goal of the cross tabulation is to
 1. Understand the demographic breakdown of the groups an intervention would be targeted towards if the model is used, and
-2. Understand how risk level varies across groups (i.e. gender or age buckets or people with a history of opioid use).
+2. Understand how risk level varies across groups (i.e. gender or age range or people with a history of opioid use).
 
 <h3 align="center">Code</h3>
 
