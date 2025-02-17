@@ -6,10 +6,10 @@ I conducted this analysis as part of a 3-hour long Data Challenge.
 The primary goal of this challenge is to analyze two datasets and prepare a cross-tabulation report that can help the county understand the relationship between various demographics (age, gender, ..) and the estimated probability of a person being at risk of death and/or jail.
 
 <h3 align="center">Datasets</h3>
-As part of this challenge, I was provided two datasets relating to one of county’s welfare interventions:
+As part of this challenge, I was provided two datasets relating to one of county’s welfare intervention programs:
 
-1. **Demographics Dataset:** It contains demographics variables (age, sex, race, history of opiod use etc.. ) for each person 
-2. **Risk Scores Dataset:** It includes out-of-sample risk scores for two outcomes (mortality and jail). These scores represent the estimated probability of a person being at risk of death and jail.
+1. **Demographics Dataset:** Contains demographics variables (age, sex, race, history of opiod use etc.. ) for each person 
+2. **Risk Scores Dataset:** Includes out-of-sample risk scores for two outcomes (mortality and jail). These scores represent the estimated probability of a person being at risk of death and jail.
 
 <h3 align="center">Task and Methodology</h3>
 
