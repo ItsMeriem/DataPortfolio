@@ -1,4 +1,4 @@
-| [Home Page](https://itsmeriem.github.io/Meriem/)  | [Automatic Speech Recognition](UtterancetoPhonemeMapping.ipynb) | [Fairness in Federated Learning](fairness_in_FL.md) | [County Analysis](county_analysis.md) | [Poorer Pennsylvania Residents are Dying of Steel](https://carnegiemellon.shorthandstories.com/air-pollution-clairton-pa/index.html)
+| [Home Page](https://itsmeriem.github.io/Meriem/)  | [Automatic Speech Recognition](UtterancetoPhonemeMapping.ipynb) | [Fairness in Federated Learning](fairness_in_FL.md) | [Incarceration and Mortality Analysis](county_analysis.md) | [Poorer Pennsylvania Residents are Dying of Steel](https://carnegiemellon.shorthandstories.com/air-pollution-clairton-pa/index.html)
 
 <h1 align="center">Welcome to Meriem's portfolio!</h1>
 
@@ -31,7 +31,7 @@ Check out how I implemented an Automatic Speech Recognition network using RNNs (
 ## [Fairness in Federated Learning](fairness_in_FL.md) 
 My co-authors and I wrote a paper on how to improve individual and group-level fairness in Federated Learning. Check out our paper and our code.
 
-## [County Analysis](county_analysis.md)
+## [Incarceration and Mortality Analysis](county_analysis.md)
 This is an analysis of Mortality and Incarceration Risk Across Demographic Variables that I conducted as part of a data challenge
 
 ## [Poorer Pennsylvania Residents are Dying of Steel](https://carnegiemellon.shorthandstories.com/air-pollution-clairton-pa/index.html)
