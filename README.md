@@ -4,8 +4,6 @@
 
 # About me
 
-<img src="DSC_3375.jpg" width="200"/>
-
 Hi!  I'm Meriem (she/her) and here's what you need to know about me:
 
 📚 Current Public Policy & Data Analytics Masters Student at Carnegie Mellon University
