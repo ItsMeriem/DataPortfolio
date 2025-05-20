@@ -1,4 +1,4 @@
-| [Home Page](https://itsmeriem.github.io/Meriem/)  | [Automatic Speech Recognition](UtterancetoPhonemeMapping.ipynb) | [Fairness in Federated Learning](fairness_in_FL.md) | [Incarceration and Mortality Analysis](county_analysis.md) | [Poorer Pennsylvania Residents are Dying of Steel](https://carnegiemellon.shorthandstories.com/air-pollution-clairton-pa/index.html)
+| [Home Page](https://itsmeriem.github.io/Meriem/)  | [Automatic Speech Recognition](Speech Recognition/UtterancetoPhonemeMapping.ipynb) | [Fairness in Federated Learning](Fairness in FL/fairness_in_FL.md) | [Incarceration and Mortality Analysis](county_analysis.md) | [Poorer Pennsylvania Residents are Dying of Steel](https://carnegiemellon.shorthandstories.com/air-pollution-clairton-pa/index.html)
 
 <h1 align="center">Welcome to Meriem's portfolio!</h1>
 
