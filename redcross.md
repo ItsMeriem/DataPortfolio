@@ -19,9 +19,28 @@ The data is either automatically downloaded when the code is ran or it is alread
 |USGS Shakemap|ShakeMaps provide near-real-time maps of ground motion and shaking intensity following significant earthquakes. We use the ShakeMap API to search for earthquake information using the earthquake's Event ID. [Link](https://earthquake.usgs.gov/data/shakemap/)|
 |Census Tract Geographic Boundaries| Our tool automatically downloads the spatial shapefiles for the geographic boundaries of census tracts and counties|
 |The 2020 Decennial Census| We use tract-level population counts from the 2020 Decennial Census. [Link](https://data.census.gov/table/DECENNIALPL2020.P1?t=Populations+and+People&g=040XX00US06$1400000)|
-
+|FEMA USA Structures|The USA Structures geo database has building-level data, indicating the exact spatial location of each building. [Link](https://disasters.geoplatform.gov/USA_Structures/)|
+|General Building Stock Data| Tract-level breakdown of structure types. These can either be deriverd through the National Structure Inventory or through the Hazus software|
+|HAZUS Damage Function Variables|These are a set of cumulative distribution functions whose variables are dependent on structure type and seismic design code. They provide a framework to estimate the probability that a structure might meet or exceed Slight, Moderate, Extensive, or Complete damage based on the peak ground acceleration (PGA) of the area.|
+|Social Vulnerability Index|The Social Vulnerability Index (SVI) is a place-based index designed to identify and quantify communities experiencing social vulnerability. [Link](https://www.atsdr.cdc.gov/place-health/php/svi/index.html)|
 
 # Methodology
 
+To estimate the number of people seeking shelter after an earthquake, we first estimate the structural building damage caused by the disaster (physical vulnerability), then estimate the  habitability of those buildings, and finally the social vulnerability of the residents.
+### ADD IMAGE OF METHODLOGY HERE!
+
+Here's a breakdown of each step and the relevant script:
+
+"""
+ShakeMap Retrieval and Processing Module
+
+This module provides functions to:
+- Fetch earthquake event data from the USGS GeoJSON feed using an event ID
+- Parse key event metadata including magnitude, coordinates, depth, and URL
+- Download and extract ShakeMap shapefiles (mi, pga, pgv) for qualifying events
+- Save relevant metadata in a structured format for further analysis
+"""
+
 # How to use
 
+# References
