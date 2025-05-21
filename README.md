@@ -2,7 +2,7 @@
 
 # About me
 
-Hi!  I'm Meriem (she/her) and here's what a little about me:
+Hi!  I'm Meriem (she/her) and here's a little about me:
 
 🎓 Recently graduated from Carnegie Mellon University with a Masters in Data Analytics and Public Policy
 
@@ -44,9 +44,3 @@ My co-authors and tested a novel approach to improve individual fairness outcome
 </p>
 
 ---
-
-## Contact Me! 
-Connect with me on [Linkedin here](https://www.linkedin.com/in/meriem-fouad/)
-
-## Important Links 
-- [Web page URL](https://itsmeriem.github.io/Meriem/)
