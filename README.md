@@ -4,11 +4,11 @@
 
 Hi!  I'm Meriem (she/her) and here's a little about me:
 
-🎓 Recently graduated from Carnegie Mellon University with a Masters in Data Analytics and Public Policy
+🎓 Recently graduated from Carnegie Mellon University with a Masters in Data Analytics, Public Policy and Management
 
-♻️ Passionate about clean energy and decarbonization
+⚡ Passionate about clean energy and decarbonization
 
-🔍 Actively seeking roles in data science and analytics in clean energy
+🔍 Actively seeking data science and analytics roles in clean energy
 
 💻 3+ years in data science and analytics in the energy and environmental industry
 
