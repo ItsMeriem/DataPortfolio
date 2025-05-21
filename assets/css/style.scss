@@ -6,9 +6,11 @@
 /* Banner wrapper styles */
 .custom-banner {
   display: flex;
-  background-color: #004080 !important; /* Dark blue or any color you like */
+  justify-content: space-between;
+  align-items: center;
+  background-color: #004080; /* Dark blue */
+  color: white;
+  padding: 12px 20px;
   flex-wrap: wrap; /* Allows items to wrap on smaller screens */
-  border-bottom: 2px solid #003366;
-  border: 2px solid red;
-}
+  border-bottom: 2px solid #003366;}
 
