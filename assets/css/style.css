@@ -6,45 +6,9 @@
 /* Banner wrapper styles */
 .custom-banner {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
   background-color: #004080 !important; /* Dark blue or any color you like */
-  color: white;
-  padding: 12px 20px;
   flex-wrap: wrap; /* Allows items to wrap on smaller screens */
-  font-family: sans-serif;
   border-bottom: 2px solid #003366;
   border: 2px solid red;
 }
 
-/* Title (left side) */
-.banner-left h1 {
-  margin: 0;
-  font-size: 1.5rem;
-}
-
-.banner-left a {
-  color: white;
-  text-decoration: none;
-}
-
-/* Button-style links (right side) */
-.banner-right {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-}
-
-.banner-right .btn {
-  background-color: #0066cc;
-  color: white;
-  text-decoration: none;
-  padding: 8px 12px;
-  border-radius: 5px;
-  font-size: 0.9rem;
-  transition: background-color 0.3s ease;
-}
-
-.banner-right .btn:hover {
-  background-color: #0055aa;
-}
