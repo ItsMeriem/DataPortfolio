@@ -23,9 +23,6 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
 
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
@@ -46,9 +43,8 @@
       </section>
       <footer>
         {% if site.github.is_project_page %}
-        <p> Connect with me on <a href="https://www.linkedin.com/in/meriem-fouad/">Linkedin</a></p>
+        <p> <img src= "Images/LinkedIn_icon.png" width = "70"> Connect with me on <a href="https://www.linkedin.com/in/meriem-fouad/">Linkedin</a></p>
         {% endif %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>        
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
