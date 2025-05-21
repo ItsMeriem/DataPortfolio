@@ -25,16 +25,17 @@ Hi!  I'm Meriem (she/her) and here's what you need to know about me:
 
 # My Projects
 
-## [Real Time Geospatial Modeling of Earthquake Impacts to Housing]()
+## [Real Time Geospatial Modeling of Earthquake Impacts to Housing](https://github.com/ItsMeriem/earthquake_shelter_model/tree/main)
 
 During my capstone project at CMU, I developed a predictive tool for the American Red Cross (RC) to forecast in real time the number of people expected to seek shelter in the aftermath of an earthquake. This product is **the first open source earthquake model** to provide the Red Cross with shelter demand estimates. Unlike existing tools, it is fast (runs in minutes), open source, and does not require complex software installations beyond Python. It is expected to reduce the time needed to deploy life-saving resources by 3 days, ensuring the RC can help people as rapidly as possible.
 
 <p align="center">
-     <img src= "https://github.com/ItsMeriem/Meriem/blob/1c8000792c3e5656b80e94ac55ff0604dbd6a721/Affected%20Area.png">
+     <img src= "https://github.com/ItsMeriem/Meriem/blob/00c478c3a69212023fc7d0d34002e122345e9884/affectedarea.png">
 </p>
 
 
 ## [Automatic Speech Recognition Using Neural Networks](https://github.com/ItsMeriem/Meriem/blob/6b7199860988b530baaee9d295d327d02a0bfb2d/Speech%20Recognition/UtterancetoPhonemeMapping.ipynb)
+
 Check out how I implemented an Automatic Speech Recognition network using RNNs (Bi-LSTMS, and p-BLSTMs), a Connectionist Temporal Classification (CTC), and dynamic programming to process human speech into written text.
 
 <p align="center">
