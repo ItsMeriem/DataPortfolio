@@ -19,7 +19,7 @@ Hi!  I'm Meriem (she/her) and here's a little about me:
 
 # My Projects
 
-## <img src= "Images/AmericanRedCrossLogo.png" width = "70"> [American Red Cross Project: Predictive Modeling of Earthquake Impacts to Housing](https://github.com/ItsMeriem/earthquake_shelter_model/tree/main)
+## <img src= "Images/AmericanRedCrossLogo.png" width = "30" align="middle"> [American Red Cross Project: Predictive Modeling of Earthquake Impacts to Housing](https://github.com/ItsMeriem/earthquake_shelter_model/tree/main)
 
 During my capstone project at CMU, I developed a predictive tool for the American Red Cross (RC) to forecast in real time the number of people expected to seek shelter in the aftermath of an earthquake. This product is **the first open source earthquake model** to provide the Red Cross with shelter demand estimates. Unlike existing tools, it is fast (runs in minutes), open source, and does not require complex software installations beyond Python. It is expected to reduce the time needed to deploy life-saving resources by 3 days, ensuring the RC can help people as rapidly as possible.
 
