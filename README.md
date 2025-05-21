@@ -6,7 +6,7 @@
 Hi!  I'm Meriem (she/her) and here's what a little about me:
 
 <p align="center">
-    <img src="https://github.com/ItsMeriem/Meriem/blob/2edb122b518b21c719960c6f3a7faa9ae5afb000/DSC_3375.jpg" width="250">
+    <img src="DSC_3375.jpg" width="250">
 </p>
 
 🎓 Recently graduated from Carnegie Mellon University with a Masters in Data Analytics and Public Policy
