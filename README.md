@@ -36,6 +36,8 @@ During my capstone project at CMU, I developed a predictive tool for the America
 
 ## [Automatic Speech Recognition Using Neural Networks](https://github.com/ItsMeriem/Meriem/blob/6b7199860988b530baaee9d295d327d02a0bfb2d/Speech%20Recognition/UtterancetoPhonemeMapping.ipynb)
 
+[Automatic Speech Recognition Using Neural Networks](https://nbviewer.org/github/ItsMeriem/earthquake_shelter_model/blob/main/UtterancetoPhonemeMapping.ipynb)
+
 Check out how I implemented an Automatic Speech Recognition network using RNNs (Bi-LSTMS, and p-BLSTMs), a Connectionist Temporal Classification (CTC), and dynamic programming to process human speech into written text.
 
 <p align="center">
