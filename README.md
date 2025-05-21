@@ -1,10 +1,9 @@
-| [Home Page](https://itsmeriem.github.io/Meriem/)  | [Automatic Speech Recognition](https://github.com/ItsMeriem/Meriem/blob/6b7199860988b530baaee9d295d327d02a0bfb2d/Speech%20Recognition/UtterancetoPhonemeMapping.ipynb) | [Fairness in Federated Learning](https://github.com/ItsMeriem/Meriem/blob/6b7199860988b530baaee9d295d327d02a0bfb2d/Fairness%20in%20FL/fairness_in_FL.md) | [Incarceration and Mortality Analysis](county_analysis.md) | [Poorer Pennsylvania Residents are Dying of Steel](https://carnegiemellon.shorthandstories.com/air-pollution-clairton-pa/index.html)
-
+| [Home Page](https://itsmeriem.github.io/Meriem/)  | [Predictive Modeling of Earthquake Impacts to Housing](https://github.com/ItsMeriem/earthquake_shelter_model/tree/main) | [Automatic Speech Recognition](https://github.com/ItsMeriem/Meriem/blob/6b7199860988b530baaee9d295d327d02a0bfb2d/Speech%20Recognition/UtterancetoPhonemeMapping.ipynb) | [Fairness in Federated Learning](https://github.com/ItsMeriem/Meriem/blob/6b7199860988b530baaee9d295d327d02a0bfb2d/Fairness%20in%20FL/fairness_in_FL.md)
 <h1 align="center">Welcome to Meriem's portfolio!</h1>
 
 # About me
 
-Hi!  I'm Meriem (she/her) and here's what you need to know about me:
+Hi!  I'm Meriem (she/her) and here's what a little about me:
 
 <p align="center">
     <img src="https://github.com/ItsMeriem/Meriem/blob/2edb122b518b21c719960c6f3a7faa9ae5afb000/DSC_3375.jpg" width="250">
@@ -25,7 +24,7 @@ Hi!  I'm Meriem (she/her) and here's what you need to know about me:
 
 # My Projects
 
-## [Real Time Geospatial Modeling of Earthquake Impacts to Housing](https://github.com/ItsMeriem/earthquake_shelter_model/tree/main)
+## [Predictive Modeling of Earthquake Impacts to Housing](https://github.com/ItsMeriem/earthquake_shelter_model/tree/main)
 
 During my capstone project at CMU, I developed a predictive tool for the American Red Cross (RC) to forecast in real time the number of people expected to seek shelter in the aftermath of an earthquake. This product is **the first open source earthquake model** to provide the Red Cross with shelter demand estimates. Unlike existing tools, it is fast (runs in minutes), open source, and does not require complex software installations beyond Python. It is expected to reduce the time needed to deploy life-saving resources by 3 days, ensuring the RC can help people as rapidly as possible.
 
@@ -34,9 +33,7 @@ During my capstone project at CMU, I developed a predictive tool for the America
 </p>
 
 
-## [Automatic Speech Recognition Using Neural Networks](https://github.com/ItsMeriem/Meriem/blob/6b7199860988b530baaee9d295d327d02a0bfb2d/Speech%20Recognition/UtterancetoPhonemeMapping.ipynb)
-
-[Automatic Speech Recognition Using Neural Networks](https://nbviewer.org/github/ItsMeriem/earthquake_shelter_model/blob/main/UtterancetoPhonemeMapping.ipynb)
+## [Automatic Speech Recognition Using Neural Networks](https://nbviewer.org/github/ItsMeriem/Meriem/blob/main/Speech%20Recognition/UtterancetoPhonemeMapping.ipynb)
 
 Check out how I implemented an Automatic Speech Recognition network using RNNs (Bi-LSTMS, and p-BLSTMs), a Connectionist Temporal Classification (CTC), and dynamic programming to process human speech into written text.
 
@@ -51,9 +48,10 @@ My co-authors and tested a novel approach to improve individual fairness outcome
     <img src="https://github.com/ItsMeriem/Meriem/blob/2edb122b518b21c719960c6f3a7faa9ae5afb000/Fairness%20in%20FL/FLsetup.png" width="500">
 </p>
 
-## [Incarceration and Mortality Analysis](county_analysis.md)
-This is an analysis of Mortality and Incarceration Risk Across Demographic Variables that I conducted as part of a data challenge
-
 ---
+
+## Contact Me! 
+Connect with me on [Linkedin here](https://www.linkedin.com/in/meriem-fouad/)
+
 ## Important Links 
 - [Web page URL](https://itsmeriem.github.io/Meriem/)
