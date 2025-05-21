@@ -1,15 +1,24 @@
+<div align="center">
+  <img src="RClogo.png" width="45%" align="left">
+  <img src="CMUHeinzlogo.png" width="45%" align="right">
+</div>
+
+<br clear="both">
+
 <h1 align="center"> Geospatial Modeling of Real Time Earthquake Impacts to Housing </h1>
 
 # Introduction:
 
 For my masters capstone at Carnegie Mellon University, we worked with the American Red Cross to develop a predictive tool of the estimate the number of people expected to seek shelter in the aftermath of an earthquake. This product is **the first open source earthquake model** to provide shelter demand estimates. It is expected to reduce the time needed to deploy life-saving resources by 3 days, ensuring the RC can help people as rapidly as possible.
 
-The American Red Cross plays an important role in disaster response, providing emergency shelter, food, and support services to communities affected by natural disasters. In the event of an  earthquake, one of the most urgent needs is to rapidly assess how many impacted individuals will require public shelter. Currently, the American Red Cross relies on tools like FEMA’s HAZUS models to assess earthquake impacts; however, these tools are technically complex, inflexible, and difficult to operate in urgent, "no-notice" disaster scenarios. Additionally, no existing models provide precise estimates of shelter demand.
+In the event of an  earthquake, one of the most urgent needs is to rapidly assess how many impacted individuals will require public shelter. Currently, the American Red Cross relies on tools like FEMA’s HAZUS models to assess earthquake impacts; however, these tools are technically complex, inflexible, and difficult to operate in urgent, "no-notice" disaster scenarios. Additionally, no existing models provide precise estimates of shelter demand.
 
 To address these limitations, our team developed an open source model to rapidly estimate shelter needs following an earthquake. The tool integrates real-time United 
-States Geological Survey (USGS) ShakeMap data to assess earthquake intensity, along with publicly available building stock data and HAZUS-derived damage functions to estimate structural damage. These physical vulnerability assessments are combined with social vulnerability indicators to generate a more accurate estimate of the population likely to seek shelter. The graph below demonstrates our methodology: from earthquake to structural building vulnerability to social vulnerability. Our methodology is designed to be accessible and practical for the American Red Cross analysts, requiring minimal technical expertise and avoiding the need for specialized software.
+States Geological Survey (USGS) ShakeMap data to assess earthquake intensity, along with publicly available building data, HAZUS-derived damage functions to estimate structural damage, and social vulnerability indicators. The graph below demonstrates our methodology: from earthquake to structural building vulnerability to social vulnerability. Our methodology is designed to be accessible and practical for the American Red Cross analysts, requiring minimal technical expertise and avoiding the need for specialized software.
 
-### ADD IMAGE OF METHODLOGY HERE!
+<p align="center">
+    <img src="MethodologyWorkflow.png" width="250">
+</p>
 
 # Data
 The data is either automatically downloaded when the code is ran or it is already included in the repo. No additional data downloads are needed. Here's a breakdown of the data used: 
@@ -31,16 +40,38 @@ To estimate the number of people seeking shelter after an earthquake, we first e
 
 Here's a breakdown of each step and the relevant script:
 
-"""
-ShakeMap Retrieval and Processing Module
+- `o1_getshakemap.py` : Fetches earthquake data (the ShakeMap) through USGS API and extracts key intensity metrics (MMI, PGA and PGV).
 
-This module provides functions to:
-- Fetch earthquake event data from the USGS GeoJSON feed using an event ID
-- Parse key event metadata including magnitude, coordinates, depth, and URL
-- Download and extract ShakeMap shapefiles (mi, pga, pgv) for qualifying events
-- Save relevant metadata in a structured format for further analysis
-"""
+- `o2_download_census.py`: Downloads and merges 2024 TIGER/Line Census Tract shapefiles (geometries of tract boundaries) into a single GeoPackage.
 
-# How to use
+- `o2_census_intersect.py`: Clips ShakeMap layers to census tract geometries so that for each census tract, we compute the max, min, and mean earthquake intensity statistics.
 
-# References
+- `o3_get_building_structure.py` [Optional]: This script processes and aggregates large scale building-level data (a data point for each building in the country) to the Census tract level. This script is pre-run and its results are saved to the repo. The `main.py` does not run this unless specified by the user. We recommend re-running this every 5 years to account for major building changes. 
+
+- `o3_clip_eventdata_buildingstocks.py`: Uses tract-level building data to estimate building count and structure type in tracts where earthquake occured.
+
+At this stage, we have the data for which tracts the earthquake occured in, what building types are in these tracts and how intense the earthquake was at each location. Using this information, we can now **estimate the structural damage**:
+
+- `o4_TractLevel_DamageAssessmentModel.py`: This module estimates earthquake-induced building damage at the census tract level using fragility functions and peak ground acceleration (PGA) values.
+
+We now know how many buildings were damaged and the extent of their damage (slight, moderate, extensive, or complete). However, individuals decide to evacuate and seek shelter for a multitude of factors beyond building damage alone. Individuals are more likely to evacuate if they have lost access to utility services and are more likely to seek shelter if they are socially vulnerable:
+
+- `o5_bhi.py`: This module estimates the number of people who are likely to evacuate based on building damage and estimated utility service disruptions.
+
+- `o5_svi_module.py`: This module estimates shelter demand as a percentage of people evacuating and based on social vulnerability.`
+
+# How to Run Our Model?
+
+- Update the `params` dictionary in the `main.py` script for the earthquake you would like to run. The current parameters are set for the Napa 2014 Earthquake.
+      - Required Parameter: The `Event ID` parameter must be changed as it identifies the earthquake for which to extract the shakemap.
+      - Optional Parameters: All other parameters are optional and can be left as is. They represent model assumptions.
+
+- Run `main.py` 
+
+# References 
+
+Data sources are linked above. Additional references:
+
+[A New Approach to Modeling Post-Earthquake Shelter Demand: Integrating Social Vulnerability in Systemic Seismic Vulnerability Analysis by Khazai et al.](https://www.researchgate.net/publication/253276822_A_New_Approach_to_Modeling_Post-Earthquake_Shelter_Demand_Integrating_Social_Vulnerability_in_Systemic_Seismic_Vulnerability_Analysis)
+
+[A Predictive Earthquake Model Written in Python](https://medium.com/new-light-technologies/a-predictive-earthquake-damage-model-written-in-python-e1862518fd92)
