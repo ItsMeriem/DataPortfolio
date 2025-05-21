@@ -1,5 +1,3 @@
-| [Home Page](https://itsmeriem.github.io/Meriem/)  | [Predictive Modeling of Earthquake Impacts to Housing](https://github.com/ItsMeriem/earthquake_shelter_model/tree/main) | [Automatic Speech Recognition](https://github.com/ItsMeriem/Meriem/blob/6b7199860988b530baaee9d295d327d02a0bfb2d/Speech%20Recognition/UtterancetoPhonemeMapping.ipynb) | [Fairness in Federated Learning](https://github.com/ItsMeriem/Meriem/blob/6b7199860988b530baaee9d295d327d02a0bfb2d/Fairness%20in%20FL/fairness_in_FL.md)
-
 # About me
 
 Hi!  I'm Meriem (she/her) and here's a little about me:
