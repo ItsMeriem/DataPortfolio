@@ -23,8 +23,17 @@ During my capstone project at CMU, I developed a predictive tool for the America
 
 <p align="center">
      <img src= "Images/ShakeMapSmall.png" width = "500">
-
 </p>
+
+## [The New Alley: How the Tornado Alley is Shifting East]
+
+How did tornado patterns change from 2001 to 2021? To answer this, I used ArcGIS Pro's ModelBuilder to build a model that combines 3 weighted raster maps into an overall index raster map. I combined three measures of tornado damage: injuries to persons, fatalities of persons, and property loss. Specifically, I used Kernel Density Smoothing to combine the damage measures into one raster map. 
+
+<div align="center">
+  <img src="TornadoAlley/2001 Tornado Index.PNG" width = 45% align="left">
+  <img src= "TornadoAlley/2021 Tornado Index.PNG" width = 45% align="right">
+</div>
+
 
 
 ## [Automatic Speech Recognition Using Neural Networks](https://nbviewer.org/github/ItsMeriem/Meriem/blob/main/Speech%20Recognition/UtterancetoPhonemeMapping.ipynb)
